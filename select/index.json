@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ENVY",
+  "base_artist": "MIKADO",
+  "createdAt": "2026-02-16T17:19:11.240446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Greed Hate Envy",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/01_Greed_Hate_Envy_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel The Envy",
+      "artist": "Franz Ferdinand",
+      "has_synced": false,
+      "path": "select/02_Feel_The_Envy_Franz_Ferdinand.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Envy Me",
+      "artist": "Denzel Curry",
+      "has_synced": false,
+      "path": "select/03_Envy_Me_Denzel_Curry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Envy",
+      "artist": "The Motels",
+      "has_synced": false,
+      "path": "select/04_Envy_The_Motels.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Envy",
+      "artist": "Armored Saint",
+      "has_synced": true,
+      "path": "select/05_Envy_Armored_Saint.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fall of Envy",
+      "artist": "Misery Speaks",
+      "has_synced": false,
+      "path": "select/06_Fall_of_Envy_Misery_Speaks.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Envy",
+      "artist": "Katra",
+      "has_synced": true,
+      "path": "select/07_Envy_Katra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love and Envy (feat. Marko Hietala)",
+      "artist": "Ayreon feat. Marko Hietala",
+      "has_synced": true,
+      "path": "select/08_Love_and_Envy_(feat._Marko_Hietala)_Ayreon_feat._Marko_Hietala.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love and Envy",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/09_Love_and_Envy_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Envy Life",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/10_Envy_Life_Testament.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Envy",
+      "artist": "Bowling for Soup",
+      "has_synced": false,
+      "path": "select/11_Envy_Bowling_for_Soup.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Natures Envy",
+      "artist": "Khalil",
+      "has_synced": false,
+      "path": "select/12_Natures_Envy_Khalil.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Would Envy (Live)",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/13_All_Would_Envy_(Live)_Sting.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Would Envy",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/14_All_Would_Envy_Sting.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Circus Envy",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/15_Circus_Envy_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little Girl Blue and the Battle Envy",
+      "artist": "Skating Polly",
+      "has_synced": true,
+      "path": "select/16_Little_Girl_Blue_and_the_Battle_Envy_Skating_Polly.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Surface Envy",
+      "artist": "Sleater-Kinney",
+      "has_synced": false,
+      "path": "select/17_Surface_Envy_Sleater-Kinney.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ENVY",
+      "artist": "MIKADO",
+      "has_synced": false,
+      "path": "select/pl_01_ENVY_MIKADO.txt"
+    }
+  ]
+}
